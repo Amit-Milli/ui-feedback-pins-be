@@ -45,3 +45,5 @@ node server.js
 
 ### Backend running at http://localhost:8080 
 #### Hit http://localhost:8080/api/pins to get all pins
+
+### Follow the instructions in [frontend repo](https://github.com/Amit-Milli/ui-feedback-pins) to run the frontend
