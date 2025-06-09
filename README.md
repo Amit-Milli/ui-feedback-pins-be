@@ -17,8 +17,8 @@ This is a simple backend for web application that allows users to leave feedback
 ## 🧱 Tech Stack
 
 ### Backend:
-- Node.js with Express (or any preferred stack)
-- SQLite (or your DB of choice)
+- Node.js with Express
+- SQLite
 - RESTful API
 
 
